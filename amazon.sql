@@ -1,0 +1,1 @@
+SELECT * FROM bd_amazon.item_venda;
